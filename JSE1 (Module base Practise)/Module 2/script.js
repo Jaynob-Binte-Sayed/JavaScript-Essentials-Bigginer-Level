@@ -1,26 +1,26 @@
-<<<<<<< HEAD
-// var height;
-// console.log(height);
-// console.log(weight);
+"use strict";
+
+
+var height;
+console.log(height);
+console.log(weight);
 
 // use of let and var
 
-// let height;
-// let height;
+let height;
+let height;
 
 
-// var height;
-// var height;
+var height;
+var height;
 
 
-// let height = 180;
-// let anotherHeight = height;
-// console.log(height);
-// console.log(anotherHeight);
-// let weight = 70;
-// console.log(weight);
-
-"use strict";
+let height = 180;
+let anotherHeight = height;
+console.log(height);
+console.log(anotherHeight);
+let weight = 70;
+console.log(weight);
 
 // height = 180;
 // console.log(height);
@@ -31,8 +31,8 @@ steps = 120;
 console.log(steps);
 steps = steps + 200;
 console.log(steps);
-=======
-"use strict";
+
+
 
 
 const declaration 
@@ -90,4 +90,4 @@ let thirdEmail = "libero@convallis.edu";
 
 console.log(firstName + "/" + firstNumber + "/" + firstEmail);
 console.log(thirdName + "/" + thirdNumber + "/" + thirdEmail);
->>>>>>> 4255d9f8108894be1d557ddddc01b7a2d0fd6306
+
