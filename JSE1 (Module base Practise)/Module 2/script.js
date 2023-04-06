@@ -372,3 +372,12 @@ prefixedUserName = prefix + userName;
  
 console.log(prefixedUserName /*+  prefixedUserName2 */); 
 // console.log(prefixedUserName2);
+
+let x = 0x21;
+// x = x+1
+console.log(x);
+
+let counter = 100;
+// let counter = 200;
+counter = 300;
+console.log(counter)
